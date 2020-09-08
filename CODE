@@ -1,0 +1,9 @@
+$nomention
+$title[GIVEAWAY]
+$description[**$noMentionMessage**
+Hosted by: <@$authorID>
+
+REACT 🎉 TO ENTER THE GIVEAWAY !]
+$color[00FFE1]
+$useChannel[$mentionedChannels[1;yes]]
+$addReactions[🎉]
